@@ -1,4 +1,4 @@
-##Experiment 1
+## Experiment 1
 
 The goal is to get started with a basic example predicting stock prices
 
